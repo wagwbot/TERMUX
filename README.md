@@ -34,8 +34,8 @@ kalo lu belum punya apk termux, download di playstore
 > ls
 > cd
 > ls
-> unzip wa-termux
-> cd wa-termux
+> unzip TERMUX
+> cd TERMUX
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
